@@ -4,4 +4,5 @@ ext is a form of communication that involves using written or printed symbols to
 SUMMERIZE- With the advent of digital technology, text has become a crucial part of online communication, social media, websites, and digital documents.
 
 length of original text  81
+
 length of summary text   21 
